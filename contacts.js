@@ -10,19 +10,19 @@ const defaultData = {
       id:'Ajay-01',
       name:'Ajay',
       handle:'@ajay',
-      avatarUrl:'http://localhost:5001/azay.jpg'
+      avatarUrl:'https://pickaface.net/gallery/avatar/unr_randomavatar_170412_0236_9n4c2i.png'
     },
     {
       id:'vivek-01',
       name:'Vivek',
       handle:'@vivek',
-      avatarUrl:'http://localhost:5001/vivek.png'
+      avatarUrl:'https://pickaface.net/gallery/avatar/unr_random_160817_0304_2mvqp69.png'
     },
     {
       id:'sanjoy-0',
       name:'Sanjoy',
       handle:'@sanjay',
-      avatarUrl:'http://localhost:5001/sanjoy.jpg'
+      avatarUrl:'https://pickaface.net/gallery/avatar/unr_random_180527_1151_2bcb7h9.png'
     }
     // {
     //   id: 'richard',
